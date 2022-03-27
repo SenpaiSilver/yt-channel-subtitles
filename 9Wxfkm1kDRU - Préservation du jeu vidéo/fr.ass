@@ -14,8 +14,9 @@ Video File: F:/YouTube/GameConservation/GameConservationBest.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.900000
-Active Line: 25
-Video Position: 7859
+Scroll Position: 86
+Active Line: 107
+Video Position: 31898
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,90 +49,90 @@ Dialogue: 0,0:01:46.32,0:01:50.61,Default,,0,0,0,,Cette vidéo représente aussi
 Dialogue: 0,0:01:50.61,0:01:59.64,Default,,0,0,0,,Qu'est ce que la préservation dans le cadre de\Nla préservation des jeux ?
 Dialogue: 0,0:01:59.64,0:02:05.58,Default,,0,0,0,, C'est l'initiative qui consiste à archiver un jeu pour en conserver\Nune copie jouable et fonctionnelle dans son intégralité.
 Dialogue: 0,0:02:05.58,0:02:10.98,Default,,0,0,0,,Un jeu ne peux pas être considérée comme\Npréserver s'il n'existe plus aucun moyen d'y jouer
-Dialogue: 0,0:02:10.98,0:02:16.08,Default,,0,0,0,,ou de le faire fonctionner le but est avant tout\Nde pouvoir jouer au jeu comme avant c'est à dire
-Dialogue: 0,0:02:16.08,0:02:21.21,Default,,0,0,0,,sans sacrifier l'expérience actuelle et pouvoir y\Njouer comme au bon vieux temps ce serait dommage
-Dialogue: 0,0:02:21.21,0:02:26.25,Default,,0,0,0,,de ne plus pouvoir jouer à final fantasy crystal\Nchronicles sur gamecube sans game boy advance
-Dialogue: 0,0:02:26.25,0:02:31.29,Default,,0,0,0,,jouer avec les restrictions de l'époque à son\Ncharme et invoque la nostalgie du gaming sauf
-Dialogue: 0,0:02:31.29,0:02:36.45,Default,,0,0,0,,quand la tille de pokémon cristal est totalement\Ndéchargé les restrictions de l'époque mon opinion
-Dialogue: 0,0:02:36.45,0:02:41.28,Default,,0,0,0,,sur la conservation et sur la culture en général\Net que ça doit être le plus accessible possible
-Dialogue: 0,0:02:41.28,0:02:46.11,Default,,0,0,0,,et nous devons tout faire pour ne jamais perdre\Nquoi que ce soit ça veut dire que nous devons même
-Dialogue: 0,0:02:46.11,0:02:52.35,Default,,0,0,0,,pouvoir conserver les navets comme sonic 2006 et\Nsonic adventure un wii sonic adventure un a trop
-Dialogue: 0,0:02:52.35,0:02:56.37,Default,,0,0,0,,mal vieilli aujourd'hui pour être considérés\Ncomme bons mais ça c'est mon opinion même les
-Dialogue: 0,0:02:56.37,0:03:00.78,Default,,0,0,0,,mauvais jeux ont une certaine valeur rien qu'en\Nexistants sauf peut-être les assets flip et les
-Dialogue: 0,0:03:00.78,0:03:05.16,Default,,0,0,0,,autres kagera un jeu peut avoir de la valeur\Nparce qu'il montre exactement ce qu'il ne faut
-Dialogue: 0,0:03:05.16,0:03:09.96,Default,,0,0,0,,pas faire pour faire un bon jeu c'est le concept\Nde base d'apprendre des erreurs des autres et oui
-Dialogue: 0,0:03:09.96,0:03:14.43,Default,,0,0,0,,certains jeux même lorsqu'ils ne sont pas très\Nbons ont aussi défini un genre et lancer des
-Dialogue: 0,0:03:14.43,0:03:18.81,Default,,0,0,0,,modes comme par exemple des ssii pour parler des\Nmoins bons et minecraft pour parler des meilleurs
+Dialogue: 0,0:02:10.98,0:02:16.08,Default,,0,0,0,,ou de le faire fonctionner. Le but est avant tout\Nde pouvoir jouer au jeu comme avant, c'est à dire:
+Dialogue: 0,0:02:16.08,0:02:21.21,Default,,0,0,0,,sans sacrifier l'expérience actuelle et pouvoir y\Njouer comme au bon vieux temps.
+Dialogue: 0,0:02:21.21,0:02:26.25,Default,,0,0,0,, Ce serait dommage de ne plus pouvoir jouer à\NFinal Fantasy Crystal Chronicles sur Gamecube sans Gameboy Advance.
+Dialogue: 0,0:02:26.25,0:02:31.29,Default,,0,0,0,,jouer avec les restrictions de l'époque a son\Ncharme et invoque la nostalgie du gaming
+Dialogue: 0,0:02:31.29,0:02:36.45,Default,,0,0,0,,sauf quand la pile de pokémon cristal est totalement\Ndéchargé... Les restrictions de l'époque hein ?!
+Dialogue: 0,0:02:36.45,0:02:41.28,Default,,0,0,0,,Mon opinion sur la conservation, et sur la culture en général,\Nest que ça doit être le plus accessible possible
+Dialogue: 0,0:02:41.28,0:02:46.11,Default,,0,0,0,,et nous devons tout faire pour ne jamais perdre\Nquoi que ce soit, ça veut dire que nous devons même
+Dialogue: 0,0:02:46.11,0:02:52.35,Default,,0,0,0,,pouvoir conserver les navets comme Sonic 2006 et\NSonic Adventure 1, oui Sonic Adventure 1 a trop
+Dialogue: 0,0:02:52.35,0:02:56.37,Default,,0,0,0,,mal vieilli aujourd'hui pour être considérés\Ncomme bon, mais ça c'est mon opinion, car même les
+Dialogue: 0,0:02:56.37,0:03:00.78,Default,,0,0,0,,mauvais jeux ont une certaine valeur rien qu'en\Nexistants, sauf peut-être les assets flip et les
+Dialogue: 0,0:03:00.78,0:03:05.16,Default,,0,0,0,,autres cash grabs. Un jeu peut avoir de la valeur\Nparce qu'il montre exactement ce qu'il ne faut
+Dialogue: 0,0:03:05.16,0:03:09.96,Default,,0,0,0,,pas faire pour faire un bon jeu,\Nc'est la base d'apprendre des erreurs des autres
+Dialogue: 0,0:03:09.96,0:03:14.43,Default,,0,0,0,,et oui certains jeux même lorsqu'ils ne sont pas très\Nbons ont aussi défini un genre et lancer des
+Dialogue: 0,0:03:14.43,0:03:18.81,Default,,0,0,0,,modes comme par exemple des DayZ pour parler des\Nmoins bons et Minecraft pour parler des meilleurs
 Dialogue: 0,0:03:18.81,0:03:23.82,Default,,0,0,0,,certains jeux ont su apporter un twist intéressant\Nsur un genre de jeu qui existait déjà comme par
-Dialogue: 0,0:03:23.82,0:03:28.62,Default,,0,0,0,,exemple over watch qui à mon avis est un petit\Npeu inspiré de team fortress 2 mais a su apporter
-Dialogue: 0,0:03:28.62,0:03:32.52,Default,,0,0,0,,quand même un touriste intéressant peu importe\Nà quel point nous détestons les ultimes et peu
-Dialogue: 0,0:03:32.52,0:03:36.72,Default,,0,0,0,,importe à quel point aujourd'hui nous ne parlons\Nplus d'odeurs watch ni deux matchs deux c'est plus
-Dialogue: 0,0:03:36.72,0:03:40.83,Default,,0,0,0,,ce que c'était bizarre mais ça vaut quand même le\Ncoup de pouvoir conserver une vieille version de
-Dialogue: 0,0:03:40.83,0:03:45.84,Default,,0,0,0,,world of warcraft ou même de warcraft iii surtout\Nwarcraft iii quand on voit ce qu'est le remake
-Dialogue: 0,0:03:47.54,0:03:53.87,Default,,0,0,0,,donc maintenant pour parler des problématiques\Nabordons la première la première problématique
-Dialogue: 0,0:03:53.87,0:03:58.88,Default,,0,0,0,,que l'on rencontre avec la préservation du jeu\Nvidéo concerne la plateforme sur laquelle on
-Dialogue: 0,0:03:58.88,0:04:02.72,Default,,0,0,0,,joue certains modèles de consoles sont plus ou\Nmoins réputés pour avoir une durée de vie assez
-Dialogue: 0,0:04:02.72,0:04:07.25,Default,,0,0,0,,courte tels que par exemple les modèles\N60 gigas de la playstation 3 lors de sa
-Dialogue: 0,0:04:07.25,0:04:12.02,Default,,0,0,0,,sortie et qui était rétrocompatible avec les\Njeux playstation 2 contrairement au reste du
-Dialogue: 0,0:04:12.02,0:04:17.72,Default,,0,0,0,,line up de la playstation 3 les red ring et l\Noled tech transformer les consoles en briques
-Dialogue: 0,0:04:17.72,0:04:21.68,Default,,0,0,0,,sans pour autant expliquer ce qui n'allait pas\Net sa console là ma connaissance ces problèmes
+Dialogue: 0,0:03:23.82,0:03:28.62,Default,,0,0,0,,exemple Overwatch, qui à mon avis est un peu\Ninspiré de Team Fortress 2, mais a su apporter
+Dialogue: 0,0:03:28.62,0:03:32.52,Default,,0,0,0,,quand même un twist intéressant, peu importe\Nà quel point nous détestons les ultis, et peu
+Dialogue: 0,0:03:32.52,0:03:36.72,Default,,0,0,0,,importe à quel point aujourd'hui nous ne parlons\Nplus d'Overwatch, ni d'Overwatch 2, c'est plus
+Dialogue: 0,0:03:36.72,0:03:40.83,Default,,0,0,0,,ce que c'était Blizzard, mais ça vaut quand même le\Ncoup de pouvoir conserver une vieille version de
+Dialogue: 0,0:03:40.83,0:03:45.84,Default,,0,0,0,,World of Warcraft ou même de Warcraft III,\Nsurtout Warcraft III quand on voit ce qu'est le remake...
+Dialogue: 0,0:03:47.54,0:03:53.87,Default,,0,0,0,,Maintenant pour parler des problématiques\Nabordons la première la première problématique
+Dialogue: 0,0:03:53.87,0:03:58.88,Default,,0,0,0,,que l'on rencontre avec la préservation du jeu vidéo\Nqui concerne la plateforme sur laquelle on joue:
+Dialogue: 0,0:03:58.88,0:04:02.72,Default,,0,0,0,,Certains modèles de consoles sont plus ou\Nmoins réputés pour avoir une durée de vie assez
+Dialogue: 0,0:04:02.72,0:04:07.25,Default,,0,0,0,,courte tels que par exemple les modèles\N60Go de la Playstation 3 lors de sa sortie
+Dialogue: 0,0:04:07.25,0:04:12.02,Default,,0,0,0,,et qui était rétrocompatible avec les\Njeux Playstation 2, contrairement au reste du
+Dialogue: 0,0:04:12.02,0:04:17.72,Default,,0,0,0,,line up de la Playstation 3. Les Red Ring et l\NYellow Led of Death transformait les consoles en briques
+Dialogue: 0,0:04:17.72,0:04:21.68,Default,,0,0,0,,sans pour autant expliquer ce qui n'allait pas\Navec la console. A ma connaissance ces problèmes
 Dialogue: 0,0:04:21.68,0:04:25.67,Default,,0,0,0,,ne pouvaient être résolus qu'en renvoyant\Nla console pour la faire remplacer auprès
-Dialogue: 0,0:04:25.67,0:04:30.26,Default,,0,0,0,,de sony ou microsoft il est donc difficile de\Npouvoir conserver ses vieilles consoles qui
+Dialogue: 0,0:04:25.67,0:04:30.26,Default,,0,0,0,,de Sony ou Microsoft. Il est donc difficile de\Npouvoir conserver ses vieilles consoles qui
 Dialogue: 0,0:04:30.26,0:04:34.97,Default,,0,0,0,,sont sujettes à des défauts de fabrication ou\Npeuvent tout simplement arrêté de fonctionner
-Dialogue: 0,0:04:34.97,0:04:39.41,Default,,0,0,0,,du jour au lendemain sans véritable explication\Nles consoles et autres systèmes muni d'un lecteur
-Dialogue: 0,0:04:39.41,0:04:43.94,Default,,0,0,0,,cd dvd ou blu-ray y peuvent être fragiles\Nselon la façon dont on insère les fameuses
-Dialogue: 0,0:04:43.94,0:04:48.59,Default,,0,0,0,,galettes brillante de ces jeux certains peuvent\Ns'encrasser au niveau de la lentille ou avec de
-Dialogue: 0,0:04:48.59,0:04:53.00,Default,,0,0,0,,la poussière au fil du temps c'est aussi possible\Nque le mécanisme autour du moteur ne puisse plus
-Dialogue: 0,0:04:53.00,0:04:57.83,Default,,0,0,0,,faire tourner les cd de façon correcte en gros\Nsi une pièce bouge elle peut casser beaucoup plus
-Dialogue: 0,0:04:57.83,0:05:01.94,Default,,0,0,0,,facilement ce sont les règles de base de l'usure\Nil est donc vraiment très important de maintenir
+Dialogue: 0,0:04:34.97,0:04:39.41,Default,,0,0,0,,du jour au lendemain sans véritable explication.\NLes consoles et autres systèmes muni d'un lecteur
+Dialogue: 0,0:04:39.41,0:04:43.94,Default,,0,0,0,,CD, DVD ou Blu-Ray peuvent être fragiles\Nselon la façon dont on insère les fameuses
+Dialogue: 0,0:04:43.94,0:04:48.59,Default,,0,0,0,,galettes brillante de ces jeux, certaines consoles peuvent\Ns'encrasser au niveau de la lentille ou avec de
+Dialogue: 0,0:04:48.59,0:04:53.00,Default,,0,0,0,,la poussière au fil du temps. C'est aussi possible\Nque le mécanisme autour du moteur ne puisse plus
+Dialogue: 0,0:04:53.00,0:04:57.83,Default,,0,0,0,,faire tourner les CD de façon correcte. En gros\Nsi une pièce bouge elle peut casser beaucoup plus
+Dialogue: 0,0:04:57.83,0:05:01.94,Default,,0,0,0,,facilement, ce sont les règles de base de l'usure.\NIl est donc vraiment très important de maintenir
 Dialogue: 0,0:05:01.94,0:05:08.45,Default,,0,0,0,,le matériel et si possible d'éviter qu'ils soient\Nexposés trop à la poussière ou maltraitées lorsque
-Dialogue: 0,0:05:08.45,0:05:12.95,Default,,0,0,0,,l'on déplace la console si vous souhaitez par\Nexemple stocker une de vos consoles comme par
-Dialogue: 0,0:05:12.95,0:05:17.51,Default,,0,0,0,,exemple une wii ou bien une playstation 3 parce\Nque vous ne vous en servez pas pendant un moment
+Dialogue: 0,0:05:08.45,0:05:12.95,Default,,0,0,0,,l'on déplace la console. Si vous souhaitez par\Nexemple stocker une de vos consoles comme par
+Dialogue: 0,0:05:12.95,0:05:17.51,Default,,0,0,0,,exemple une Wii ou bien une Playstation 3 parce\Ndont vous ne vous en servez pas pendant un moment
 Dialogue: 0,0:05:17.51,0:05:22.67,Default,,0,0,0,,il serait donc plus sage de retirer le jeu qui est\Nactuellement inséré dans la console au cas où vous
-Dialogue: 0,0:05:22.67,0:05:27.95,Default,,0,0,0,,avez besoin de déplacer la console ajoutons à ça\Naussi que trouver le vrai matériel officiel pour
-Dialogue: 0,0:05:27.95,0:05:33.95,Default,,0,0,0,,une console peut être extrêmement coûteux surtout\Nau niveau des adaptateurs vidéo analogiques vers
-Dialogue: 0,0:05:33.95,0:05:39.08,Default,,0,0,0,,digital pour jouer sur des écrans récents en\Nhdmi sans câble péritel sans câble composite
-Dialogue: 0,0:05:39.08,0:05:44.18,Default,,0,0,0,,ces boîtiers comme les fremm master permettent\Nde jouer dans de bonnes conditions avec peu
-Dialogue: 0,0:05:44.18,0:05:48.47,Default,,0,0,0,,de latence par rapport aux input et ce qui se\Npasse à l'écran mais le coup est vraiment très
-Dialogue: 0,0:05:48.47,0:05:52.67,Default,,0,0,0,,important il est aussi possible se tourner vers\Ndes solutions tiers tels que la poly mes gars qui
-Dialogue: 0,0:05:52.67,0:05:57.30,Default,,0,0,0,,est une console tierces qui vise à reproduire le\Nfonctionnement de plusieurs consoles à l'aide de
-Dialogue: 0,0:05:57.30,0:06:01.11,Default,,0,0,0,,modules additionnels je ne suis pas certain de ce\Nque ça vaut mais ça semble supporter les vraies
-Dialogue: 0,0:06:01.11,0:06:06.48,Default,,0,0,0,,cartouches via des modules amovibles et les cd rom\Nle coût par contre reste encore assez prohibitif
-Dialogue: 0,0:06:06.48,0:06:11.07,Default,,0,0,0,,je ne serai personnellement pas à l'aise de mettre\Nun peu plus que le prix d'une switch pour juste le
-Dialogue: 0,0:06:11.07,0:06:15.60,Default,,0,0,0,,modèle de base mais tout dépend vraiment à ce à\Nquoi je veux jouer si je suis vraiment désespéré
-Dialogue: 0,0:06:15.60,0:06:20.10,Default,,0,0,0,,et que ma vieille megadrive ne fonctionne plus je\Npense que je n'aurai pas beaucoup d'autres choix
-Dialogue: 0,0:06:20.10,0:06:24.06,Default,,0,0,0,,que de me tourner vers ça ouvert de l'émulation\Non parlera de l'émulation un peu plus tard
-Dialogue: 0,0:06:27.26,0:06:32.48,Default,,0,0,0,,le support des jeux est lui aussi sujet à l'usure\Nque ce soit les rayures sur un disque une pile
-Dialogue: 0,0:06:32.48,0:06:37.19,Default,,0,0,0,,qui se décharge où les pistes qui s'oxyde sur une\Ncartouche le support n'est pas toujours compatible
-Dialogue: 0,0:06:37.19,0:06:42.44,Default,,0,0,0,,d'une console à l'autre comme dans le cas de la\Nnintendo ds qui est rétro compatible qu'avec les
-Dialogue: 0,0:06:42.44,0:06:47.96,Default,,0,0,0,,jeux game boy advance ou bien la nintendo dsi qui\Nne dispose plus d'un port pour les jeux game boy
-Dialogue: 0,0:06:47.96,0:06:52.46,Default,,0,0,0,,advance malheureusement dans certains cas un peu\Nplus extrêmes les cartouches peuvent être abîmées
-Dialogue: 0,0:06:52.46,0:06:57.53,Default,,0,0,0,,par un mauvais condensateurs ou une pile qui coule\Nsur le pcb en effet les liquides contenus dans ces
-Dialogue: 0,0:06:57.53,0:07:02.24,Default,,0,0,0,,composants peuvent être très corrosif les disques\Nsemble un peu plus durable du coup s'ils sont bien
-Dialogue: 0,0:07:02.24,0:07:06.20,Default,,0,0,0,,sûr stockés dans de bonnes conditions mais ils\Nne sont pas à l'abri de la moisissure en effet
-Dialogue: 0,0:07:06.20,0:07:12.14,Default,,0,0,0,,le disque roth est quelque chose de possible\Navec certains médias il est aussi plus facile
-Dialogue: 0,0:07:12.14,0:07:16.79,Default,,0,0,0,,de préserver digitalement un disque lorsqu'une\Ncopie peut être fait sans trop d'efforts et
-Dialogue: 0,0:07:16.79,0:07:20.87,Default,,0,0,0,,lorsqu'on dispose du matériel adéquat à l'aide\Nde certaines techniques il est même possible
-Dialogue: 0,0:07:20.87,0:07:26.00,Default,,0,0,0,,d'utiliser une console pour pouvoir doper les\Njeux par exemple sur gamecube il est nécessaire
-Dialogue: 0,0:07:26.00,0:07:30.89,Default,,0,0,0,,d'avoir phantasy star online épisodes 1 et 2 pas\Nla version plus qui étaient vendus en amérique
-Dialogue: 0,0:07:30.89,0:07:38.36,Default,,0,0,0,,du nord et l'adaptateur ethernet bba pour pouvoir\Nexécuter du code sur ps au heads-up et les images
-Dialogue: 0,0:07:38.36,0:07:42.71,Default,,0,0,0,,iso à travers le réseau une autre alternative\Npour la gamecube serait de disposer d'un lecteur
-Dialogue: 0,0:07:42.71,0:07:47.30,Default,,0,0,0,,de dvd et bien particulier mais dont le modèle\Nm'échappe totalement certaines consoles comme la
-Dialogue: 0,0:07:47.30,0:07:52.01,Default,,0,0,0,,dreamcast n'ont pas de véritable protection anti\Ncopie et je crois qu il est du coup vraiment très
-Dialogue: 0,0:07:52.01,0:07:57.68,Default,,0,0,0,,facile de faire des copies digitales des jeux\Nsur gd rom après pour les cartouches il reste
-Dialogue: 0,0:07:57.68,0:08:02.96,Default,,0,0,0,,possible le dmp la rom du jeu mais ça ne rendra\Npas toujours le jeu jouable sur un émulateur car
-Dialogue: 0,0:08:02.96,0:08:07.04,Default,,0,0,0,,il n'est pas nécessairement possible de faire\Nune copie digitale des composants présents sur
-Dialogue: 0,0:08:07.04,0:08:13.37,Default,,0,0,0,,la cartouche comme c'est le cas pour le jeu boxe\Nthaï est jeune et senior n ce jeu dispose d'un
-Dialogue: 0,0:08:13.37,0:08:17.51,Default,,0,0,0,,capteur de lumière sur la cartouche qui est\Nnécessaire pour pouvoir jouer au jeu je fais
-Dialogue: 0,0:08:17.51,0:08:22.37,Default,,0,0,0,,aussi une mention honorable pour royan were\Ntwisted qui nécessite un gyroscope d'autres
-Dialogue: 0,0:08:22.37,0:08:26.72,Default,,0,0,0,,je pouvais aussi utiliser des périphériques\Nsur par exemple le port link de la game boy
-Dialogue: 0,0:08:26.72,0:08:32.54,Default,,0,0,0,,comme par exemple pokémon sur game boy advance\Npour les remakes de la gen 1 et pokémon émeraude
-Dialogue: 0,0:08:32.54,0:08:39.77,Default,,0,0,0,,il est important de ne pas oublier aussi que\Nparfois le support physique n'existent pas ou
-Dialogue: 0,0:08:39.77,0:08:43.88,Default,,0,0,0,,bien il sert juste de licence pour lancer un jeu\Naujourd'hui toutes les plateformes proposent une
+Dialogue: 0,0:05:22.67,0:05:27.95,Default,,0,0,0,,avez besoin de déplacer la console.\NAjoutons à ça aussi que trouver le vrai matériel officiel pour
+Dialogue: 0,0:05:27.95,0:05:33.95,Default,,0,0,0,,une console peut être extrêmement coûteux surtout\Nau niveau des adaptateurs vidéo analogiques vers digital
+Dialogue: 0,0:05:33.95,0:05:39.08,Default,,0,0,0,,pour jouer sur des écrans récents en\NHDMI, sans câble péritel et sans câble composite.
+Dialogue: 0,0:05:39.08,0:05:44.18,Default,,0,0,0,,Les boîtiers comme les Framemeister permettent\Nde jouer dans de bonnes conditions
+Dialogue: 0,0:05:44.18,0:05:48.47,Default,,0,0,0,,avec peu d'input lag et un bon temps de réponse\Navec l'écran, mais le coût est vraiment très
+Dialogue: 0,0:05:48.47,0:05:52.67,Default,,0,0,0,,élevé, mais il est aussi possible se tourner vers\Ndes solutions tierces tels que la Polymega qui
+Dialogue: 0,0:05:52.67,0:05:57.30,Default,,0,0,0,,est une "console" indépendante qui vise à reproduire le\Nfonctionnement de plusieurs consoles à l'aide de
+Dialogue: 0,0:05:57.30,0:06:01.11,Default,,0,0,0,,modules additionnels. Je ne suis pas certain de ce\Nque ça vaut mais ça semble supporter les vraies
+Dialogue: 0,0:06:01.11,0:06:06.48,Default,,0,0,0,,cartouches via des modules amovibles et les CD-ROM.\NLe coût par contre reste encore assez prohibitif...
+Dialogue: 0,0:06:06.48,0:06:11.07,Default,,0,0,0,,Je ne serai personnellement pas à l'aise de mettre\Nun peu plus que le prix d'une Switch pour juste le
+Dialogue: 0,0:06:11.07,0:06:15.60,Default,,0,0,0,,modèle de base mais tout dépend vraiment à ce à\Nquoi je veux jouer et si je suis vraiment désespéré
+Dialogue: 0,0:06:15.60,0:06:20.10,Default,,0,0,0,,et que ma vieille megadrive ne fonctionne plus\Nje pense que je n'aurai pas beaucoup le choix
+Dialogue: 0,0:06:20.10,0:06:24.06,Default,,0,0,0,,que de me tourner vers ça ou vers de l'émulation,\Non parlera de l'émulation un peu plus tard.
+Dialogue: 0,0:06:27.26,0:06:32.48,Default,,0,0,0,,Le support des jeux est lui aussi sujet à l'usure\Nque ce soit les rayures sur un disque, une pile
+Dialogue: 0,0:06:32.48,0:06:37.19,Default,,0,0,0,,qui se décharge où les pistes qui s'oxyde sur une cartouche\NLe support n'est pas toujours compatible
+Dialogue: 0,0:06:37.19,0:06:42.44,Default,,0,0,0,,d'une console à l'autre comme dans le cas de la\NNintendo DS qui est rétro compatible qu'avec les
+Dialogue: 0,0:06:42.44,0:06:47.96,Default,,0,0,0,,jeux Gameboy Advance ou bien la Nintendo DSi qui\Nne dispose plus d'un port pour les jeux Gameboy Advance.
+Dialogue: 0,0:06:47.96,0:06:52.46,Default,,0,0,0,,Malheureusement dans certains cas un peu\Nplus extrêmes les cartouches peuvent être abîmées
+Dialogue: 0,0:06:52.46,0:06:57.53,Default,,0,0,0,,par un mauvais condensateur ou une pile qui coule\Nsur le PCB, en effet les liquides contenus dans ces
+Dialogue: 0,0:06:57.53,0:07:02.24,Default,,0,0,0,,composants peuvent être très corrosif. Les disques\Nsemble un peu plus durable du coup s'ils sont bien
+Dialogue: 0,0:07:02.24,0:07:06.20,Default,,0,0,0,,stockés dans de bonnes conditions mais ils\Nne sont pas à l'abri de la moisissure, en effet
+Dialogue: 0,0:07:06.20,0:07:12.14,Default,,0,0,0,,le "disc rot" est quelque chose de possible.\NAvec certains médias il est aussi plus facile
+Dialogue: 0,0:07:12.14,0:07:16.79,Default,,0,0,0,,de préserver digitalement un disque lorsqu'une\Ncopie peut être fait sans trop d'efforts
+Dialogue: 0,0:07:16.79,0:07:20.87,Default,,0,0,0,,et, lorsqu'on dispose du matériel adéquat, à l'aide\Nde certaines techniques il est même possible
+Dialogue: 0,0:07:20.87,0:07:26.00,Default,,0,0,0,,d'utiliser une console original pour pouvoir dumper les\Njeux par exemple sur Gamecube il est nécessaire
+Dialogue: 0,0:07:26.00,0:07:30.89,Default,,0,0,0,,d'avoir Phantasy Star Online Episodes 1 et 2,\Npas la version "plus" qui était vendu aux US et au Japon,
+Dialogue: 0,0:07:30.89,0:07:38.36,Default,,0,0,0,,et de l'adaptateur Ethernet "BBA" pour pouvoir\Nexécuter du code sur PSO, via un exploit, et dumper les ISO
+Dialogue: 0,0:07:38.36,0:07:42.71,Default,,0,0,0,,à travers le port Ethernet. Une autre alternative\Npour la Gamecube serait de disposer d'un lecteur DVD
+Dialogue: 0,0:07:42.71,0:07:47.30,Default,,0,0,0,,bien particulier, mais dont le modèle m'échappe totalement,\Ncertaines consoles comme la
+Dialogue: 0,0:07:47.30,0:07:52.01,Default,,0,0,0,,Dreamcast n'ont pas de véritable protection anti\Ncopie et je crois qu il est du coup vraiment très
+Dialogue: 0,0:07:52.01,0:07:57.68,Default,,0,0,0,,facile de faire des copies digitales des jeux\Nsur GD-ROM. Après pour les cartouches il reste
+Dialogue: 0,0:07:57.68,0:08:02.96,Default,,0,0,0,,possible le dumper la ROM du jeu, mais ça ne rendra\Npas toujours le jeu jouable sur un émulateur,
+Dialogue: 0,0:08:02.96,0:08:07.04,Default,,0,0,0,,car il n'est pas nécessairement possible de faire\Nune copie digitale des composants présents sur
+Dialogue: 0,0:08:07.04,0:08:13.37,Default,,0,0,0,,la cartouche comme c'est le cas pour le jeu Boktai:\NThe Sun is In Your Hand, car ce jeu dispose d'un
+Dialogue: 0,0:08:13.37,0:08:17.51,Default,,0,0,0,,capteur de lumière sur la cartouche qui est\Nnécessaire pour pouvoir jouer au jeu dans de bonnes conditions.
+Dialogue: 0,0:08:17.51,0:08:22.37,Default,,0,0,0,,Je fais aussi une mention honorable pour WarioWare Twisted\Nqui nécessite un gyroscope.
+Dialogue: 0,0:08:22.37,0:08:26.72,Default,,0,0,0,,D'autres jeux pouvaient aussi utiliser des périphériques\Nsur par exemple le port link de la Gameboy,
+Dialogue: 0,0:08:26.72,0:08:32.54,Default,,0,0,0,,comme par exemple le WiFi sur Pokémon sur Gameboy Advance\Npour les remakes de la Gen 1 et Pokémon Emeraude.
+Dialogue: 0,0:08:32.54,0:08:39.77,Default,,0,0,0,,Il est important de ne pas oublier aussi que\Nparfois le support physique n'existe pas ou
+Dialogue: 0,0:08:39.77,0:08:43.88,Default,,0,0,0,,bien il sert juste de licence pour lancer un jeu.\NAujourd'hui toutes les plateformes proposent une
 Dialogue: 0,0:08:43.88,0:08:48.05,Default,,0,0,0,,version dématérialisée de leur catalogue de\Njeux qui est accessible grâce aux comptes que
-Dialogue: 0,0:08:48.05,0:08:51.62,Default,,0,0,0,,vous avez créé pour la plateforme en question\Nnous n'avons plus besoin de nous reposer sur un
-Dialogue: 0,0:08:51.62,0:08:55.64,Default,,0,0,0,,système de cartouche est de celles qui peuvent\Nsubir des dégradations physiques diverses et
-Dialogue: 0,0:08:55.64,0:08:59.60,Default,,0,0,0,,variées le support dématérialisé est aussi\Nbeaucoup plus pratique car nous n'avons pas
+Dialogue: 0,0:08:48.05,0:08:51.62,Default,,0,0,0,,vous avez créés pour la plateforme en question.\NNous n'avons plus besoin de nous reposer sur un
+Dialogue: 0,0:08:51.62,0:08:55.64,Default,,0,0,0,,système de cartouche et de CD-ROMs qui peuvent\Nsubir des dégradations physiques diverses et variées
+Dialogue: 0,0:08:55.64,0:08:59.60,Default,,0,0,0,,le support dématérialisé est aussi\Nbeaucoup plus pratique car nous n'avons pas
 Dialogue: 0,0:08:59.60,0:09:04.82,Default,,0,0,0,,besoin de changer la galette ou la cartouche qui\Nse met dans la console mais qu'en est il de la
 Dialogue: 0,0:09:04.82,0:09:09.53,Default,,0,0,0,,pérennité du jeu en lui-même il reste possible de\Ntélécharger le jeu à nouveau mais sous certaines
 Dialogue: 0,0:09:09.53,0:09:14.60,Default,,0,0,0,,conditions selon la plateforme et la présence\Nde drm lorsque la plateforme ferme ses portes
